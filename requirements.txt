@@ -4,15 +4,18 @@ cffi==1.15.1
 charset-normalizer==2.1.1
 cryptography==38.0.1
 defusedxml==0.7.1
+dj-database-url==1.0.0
 dj-rest-auth==2.2.5
 Django==4.1.2
 django-allauth==0.51.0
 django-cors-headers==3.13.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
+gunicorn==20.1.0
 idna==3.4
 msgpack==1.0.4
 oauthlib==3.2.2
+psycopg2-binary==2.9.4
 pyasn1==0.4.8
 pycodestyle==2.9.1
 pycparser==2.21
@@ -28,3 +31,4 @@ toml==0.10.2
 tzdata==2022.5
 uritemplate==4.1.1
 urllib3==1.26.12
+whitenoise==6.2.0
